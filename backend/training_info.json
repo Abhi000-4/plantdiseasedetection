@@ -1,0 +1,22 @@
+{
+    "feature_dimensions": 296,
+    "num_classes": 10,
+    "classes": [
+        "Mossaic Virus",
+        "Southern blight",
+        "Sudden Death Syndrone",
+        "Yellow Mosaic",
+        "bacterial_blight",
+        "brown_spot",
+        "crestamento",
+        "ferrugen",
+        "powdery_mildew",
+        "septoria"
+    ],
+    "image_size": [
+        128,
+        128
+    ],
+    "test_size": 0.2,
+    "random_state": 42
+}
