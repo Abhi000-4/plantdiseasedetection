@@ -1,0 +1,2 @@
+# plantdiseasedetection
+college project .
